@@ -15,15 +15,15 @@ Kotlin-based Android news app helps users stay up-to-date on the latest headline
  
  <table align="center">
   <tr>
-    <td><img src="https://github.com/PragyaMishra00/News_App_Assignment/blob/8c500a05d0c690f7ce7d39e27b9809f346e79634/screenshots/mainactivity.jpeg" alt="News home" style="width:200px;height:400px;"></td>
-    <td><img src="https://github.com/PragyaMishra00/News_App_Assignment/blob/8c500a05d0c690f7ce7d39e27b9809f346e79634/screenshots/read%20news%20activity.jpeg" alt="Read News" style="width:200px;height:400px;"></td>
-    <td><img src="https://github.com/PragyaMishra00/News_App_Assignment/blob/8c500a05d0c690f7ce7d39e27b9809f346e79634/screenshots/saved%20news%20activity.jpeg" alt="saved" style="width:200px;height:400px;"></td>
+    <td><img src="https://github.com/sushantkumbhar799/News_App_Assignment/blob/ef1ecf92e801af57b18ebba1bc3aaaae65292855/screenshots/mainactivity.jpeg" alt="News home" style="width:200px;height:400px;"></td>
+    <td><img src="https://github.com/sushantkumbhar799/News_App_Assignment/blob/ef1ecf92e801af57b18ebba1bc3aaaae65292855/screenshots/read%20news%20activity.jpeg" alt="Read News" style="width:200px;height:400px;"></td>
+    <td><img src="https://github.com/sushantkumbhar799/News_App_Assignment/blob/ef1ecf92e801af57b18ebba1bc3aaaae65292855/screenshots/saved%20news%20activity.jpeg" alt="saved" style="width:200px;height:400px;"></td>
   </tr>
   
   <tr>
-    <td><img src="https://github.com/PragyaMishra00/News_App_Assignment/blob/8c500a05d0c690f7ce7d39e27b9809f346e79634/screenshots/home.jpeg" alt="News home" style="width:200px;height:400px;"></td>
-    <td><img src="https://github.com/PragyaMishra00/News_App_Assignment/blob/8c500a05d0c690f7ce7d39e27b9809f346e79634/screenshots/browse.jpeg" alt="read News" style="width:200px;height:400px;"></td>
-    <td><img src="https://github.com/PragyaMishra00/News_App_Assignment/blob/8c500a05d0c690f7ce7d39e27b9809f346e79634/screenshots/saved.jpeg" alt="saved news" style="width:200px;height:400px;"></td>
+    <td><img src="https://github.com/sushantkumbhar799/News_App_Assignment/blob/ef1ecf92e801af57b18ebba1bc3aaaae65292855/screenshots/home.jpeg" alt="News home" style="width:200px;height:400px;"></td>
+    <td><img src="https://github.com/sushantkumbhar799/News_App_Assignment/blob/ef1ecf92e801af57b18ebba1bc3aaaae65292855/screenshots/browse.jpeg" alt="read News" style="width:200px;height:400px;"></td>
+    <td><img src="https://github.com/sushantkumbhar799/News_App_Assignment/blob/ef1ecf92e801af57b18ebba1bc3aaaae65292855/screenshots/saved.jpeg" alt="saved news" style="width:200px;height:400px;"></td>
   </tr>
    
 </table><br><br>
@@ -52,7 +52,7 @@ Note: To run the app you have to add NewsAPI.org key. This API has limited acces
 
    - Contributions are always welcome!
 
-   - See [CONTRIBUTING.md](https://github.com/PragyaMishra00/News_App_Assignment/blob/8c500a05d0c690f7ce7d39e27b9809f346e79634/CONTRIBUTING.md) for ways to get started.
+   - See [CONTRIBUTING.md](https://github.com/sushantkumbhar799/News_App_Assignment/blob/ef1ecf92e801af57b18ebba1bc3aaaae65292855/CONTRIBUTING.md) for ways to get started.
 
   
 ### For hackoberfest:
@@ -64,6 +64,6 @@ Note: To run the app you have to add NewsAPI.org key. This API has limited acces
 
 ### 📝 License 
 
-Copyright (c) 2024 Pragya Mishra
+Copyright (c) 2024 Sushant Kumbhar
 
-This project is [MIT](https://github.com/PragyaMishra00/News_App_Assignment/blob/8c500a05d0c690f7ce7d39e27b9809f346e79634/License) licensed.
+This project is [MIT](https://github.com/sushantkumbhar799/News_App_Assignment/blob/ef1ecf92e801af57b18ebba1bc3aaaae65292855/License) licensed.
