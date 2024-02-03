@@ -1,4 +1,4 @@
-Looking to report an issue/bug or make a feature request? Please refer to the [README file](https://github.com/Sandyn7890/NewsApp_android_assignment/blob/00ca8e34d5a0c0a4557877f698fe89630f4dd6a2/README.md).
+Looking to report an issue/bug or make a feature request? Please refer to the [README file](https://github.com/PragyaMishra00/News_App_Assignment/blob/8c500a05d0c690f7ce7d39e27b9809f346e79634/README.md).
 
 ---
 
@@ -6,7 +6,7 @@ Thanks for your interest in contributing!
 
 # Code contributions
 
-If you're interested in taking on [an open issue](https://github.com/Sandyn7890/NewsApp_android_assignment/issues), please comment on it so others are aware.
+If you're interested in taking on [an open issue](https://github.com/PragyaMishra00/News_App_Assignment/issues), please comment on it so others are aware.
 You do not need to ask for permission nor an assignment. Be sure to include a **title, clear description** and **test case** demonstrating the new feature you want to add to the project.
 
 ## Prerequisites
@@ -45,7 +45,7 @@ After the successful fork, you'll acknowledge a copy of this repo on your own.
               > git remote add origin <LINK_OF_FORKED_REPO_IN_YOUR_ACCOUNT>
 
       - Now you have to set up the upstream. write the following Git command to set up the upstream.
-      > git remote add upstream https://github.com/Sandyn7890/NewsApp_android_assignment.git
+      > git remote add upstream https://github.com/PragyaMishra00/News_App_Assignment.git
 
       - Now pull the latest changes from original repo to your local changes by firing the below command
               > git pull upstream master
