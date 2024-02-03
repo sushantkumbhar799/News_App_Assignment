@@ -15,15 +15,15 @@ Kotlin-based Android news app helps users stay up-to-date on the latest headline
  
  <table align="center">
   <tr>
-    <td><img src="https://github.com/Raj-m01/News-App/blob/master/screenshots/mainactivity.jpeg" alt="News home" style="width:200px;height:400px;"></td>
-    <td><img src="https://github.com/Raj-m01/News-App/blob/master/screenshots/read%20news%20activity.jpeg" alt="Read News" style="width:200px;height:400px;"></td>
-    <td><img src="https://github.com/Raj-m01/News-App/blob/master/screenshots/saved%20news%20activity.jpeg" alt="saved" style="width:200px;height:400px;"></td>
+    <td><img src="https://github.com/Sandyn7890/NewsApp_android_assignment/blob/00ca8e34d5a0c0a4557877f698fe89630f4dd6a2/screenshots/mainactivity.jpeg" alt="News home" style="width:200px;height:400px;"></td>
+    <td><img src="https://github.com/Sandyn7890/NewsApp_android_assignment/blob/00ca8e34d5a0c0a4557877f698fe89630f4dd6a2/screenshots/read%20news%20activity.jpeg" alt="Read News" style="width:200px;height:400px;"></td>
+    <td><img src="https://github.com/Sandyn7890/NewsApp_android_assignment/blob/00ca8e34d5a0c0a4557877f698fe89630f4dd6a2/screenshots/saved%20news%20activity.jpeg" alt="saved" style="width:200px;height:400px;"></td>
   </tr>
   
   <tr>
-    <td><img src="https://github.com/Raj-m01/News-App/blob/master/screenshots/home.jpeg" alt="News home" style="width:200px;height:400px;"></td>
-    <td><img src="https://github.com/Raj-m01/News-App/blob/master/screenshots/browse.jpeg" alt="read News" style="width:200px;height:400px;"></td>
-    <td><img src="https://github.com/Raj-m01/News-App/blob/master/screenshots/saved.jpeg" alt="saved news" style="width:200px;height:400px;"></td>
+    <td><img src="https://github.com/Sandyn7890/NewsApp_android_assignment/blob/00ca8e34d5a0c0a4557877f698fe89630f4dd6a2/screenshots/home.jpeg" alt="News home" style="width:200px;height:400px;"></td>
+    <td><img src="https://github.com/Sandyn7890/NewsApp_android_assignment/blob/00ca8e34d5a0c0a4557877f698fe89630f4dd6a2/screenshots/browse.jpeg" alt="read News" style="width:200px;height:400px;"></td>
+    <td><img src="https://github.com/Sandyn7890/NewsApp_android_assignment/blob/00ca8e34d5a0c0a4557877f698fe89630f4dd6a2/screenshots/saved.jpeg" alt="saved news" style="width:200px;height:400px;"></td>
   </tr>
    
 </table><br><br>
@@ -52,7 +52,7 @@ Note: To run the app you have to add NewsAPI.org key. This API has limited acces
 
    - Contributions are always welcome!
 
-   - See [CONTRIBUTING.md](https://github.com/Raj-m01/News-App/blob/master/CONTRIBUTING.md) for ways to get started.
+   - See [CONTRIBUTING.md](https://github.com/Sandyn7890/NewsApp_android_assignment/blob/00ca8e34d5a0c0a4557877f698fe89630f4dd6a2/CONTRIBUTING.md) for ways to get started.
 
   
 ### For hackoberfest:
@@ -64,6 +64,6 @@ Note: To run the app you have to add NewsAPI.org key. This API has limited acces
 
 ### 📝 License 
 
-Copyright (c) 2022 Raj Manjrekar
+Copyright (c) 2024 sandeep suman
 
-This project is [MIT](https://github.com/Raj-m01/News-App/blob/master/License) licensed.
+This project is [MIT](https://github.com/Sandyn7890/NewsApp_android_assignment/blob/00ca8e34d5a0c0a4557877f698fe89630f4dd6a2/License) licensed.
