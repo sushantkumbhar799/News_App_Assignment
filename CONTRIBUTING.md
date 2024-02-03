@@ -73,14 +73,12 @@ After the successful fork, you'll acknowledge a copy of this repo on your own.
 5. **Let's finish this**
     - Go to your forked repo on GitHub website and refresh the page,
 
-    - Click on pull-request and you will be redirected to another page where you will see something like below image 
+    - Click on pull-request and you will be redirected to another page where you will see pull request page
 
     - After that you have to write your GitHub username as the title of your pull-request and describe your work if you want and that's it!! Create a pull-request by clicking the button
     Also add the below 2 lines in the description. It is compulsory for successful submission.
 
-    ![Screenshot 2021-09-26 at 6 58 08 PM](https://user-images.githubusercontent.com/58077762/94461826-43fab680-01d8-11eb-96cd-80b2d69e13be.png)
-
-
+    
      - [X] I have read the Code Of Conduct.
 
      - [X] I have followed all the steps of submission properly.
